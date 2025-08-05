@@ -1,22 +1,20 @@
-.class public final Lcom/google/firebase/R$integer;
+.class public final Lcom/feyvteddv/mdeivyf/R$mipmap;
 .super Ljava/lang/Object;
 
 
 # annotations
 .annotation system Ldalvik/annotation/EnclosingClass;
-    value = Lcom/google/firebase/R;
+    value = Lcom/feyvteddv/mdeivyf/R;
 .end annotation
 
 .annotation system Ldalvik/annotation/InnerClass;
     accessFlags = 0x19
-    name = "integer"
+    name = "mipmap"
 .end annotation
 
 
 # static fields
-.field public static final google_play_services_version:I = 0x7f090008
-
-.field public static final status_bar_notification_info_maxnum:I = 0x7f090016
+.field public static final ic_launcher:I = 0x7f0c0000
 
 
 # direct methods

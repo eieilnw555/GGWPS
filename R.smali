@@ -1,26 +1,21 @@
-.class public final Lcom/feyvtedd/mdeivy/wsrbe/R;
+.class public final Lcom/google/firebase/R;
 .super Ljava/lang/Object;
 
 
 # annotations
 .annotation system Ldalvik/annotation/MemberClasses;
     value = {
-        Lcom/feyvtedd/mdeivy/wsrbe/R$anim;,
-        Lcom/feyvtedd/mdeivy/wsrbe/R$animator;,
-        Lcom/feyvtedd/mdeivy/wsrbe/R$attr;,
-        Lcom/feyvtedd/mdeivy/wsrbe/R$bool;,
-        Lcom/feyvtedd/mdeivy/wsrbe/R$color;,
-        Lcom/feyvtedd/mdeivy/wsrbe/R$dimen;,
-        Lcom/feyvtedd/mdeivy/wsrbe/R$drawable;,
-        Lcom/feyvtedd/mdeivy/wsrbe/R$id;,
-        Lcom/feyvtedd/mdeivy/wsrbe/R$integer;,
-        Lcom/feyvtedd/mdeivy/wsrbe/R$interpolator;,
-        Lcom/feyvtedd/mdeivy/wsrbe/R$layout;,
-        Lcom/feyvtedd/mdeivy/wsrbe/R$plurals;,
-        Lcom/feyvtedd/mdeivy/wsrbe/R$string;,
-        Lcom/feyvtedd/mdeivy/wsrbe/R$style;,
-        Lcom/feyvtedd/mdeivy/wsrbe/R$styleable;,
-        Lcom/feyvtedd/mdeivy/wsrbe/R$xml;
+        Lcom/google/firebase/R$attr;,
+        Lcom/google/firebase/R$color;,
+        Lcom/google/firebase/R$dimen;,
+        Lcom/google/firebase/R$drawable;,
+        Lcom/google/firebase/R$id;,
+        Lcom/google/firebase/R$integer;,
+        Lcom/google/firebase/R$layout;,
+        Lcom/google/firebase/R$raw;,
+        Lcom/google/firebase/R$string;,
+        Lcom/google/firebase/R$style;,
+        Lcom/google/firebase/R$styleable;
     }
 .end annotation
 

@@ -1,10 +1,10 @@
-.class public final Lcom/feyvtedd/mdeivy/wsrbe/R$animator;
+.class public final Lcom/feyvteddv/mdeivyf/R$animator;
 .super Ljava/lang/Object;
 
 
 # annotations
 .annotation system Ldalvik/annotation/EnclosingClass;
-    value = Lcom/feyvtedd/mdeivy/wsrbe/R;
+    value = Lcom/feyvteddv/mdeivyf/R;
 .end annotation
 
 .annotation system Ldalvik/annotation/InnerClass;

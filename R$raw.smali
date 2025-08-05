@@ -1,4 +1,4 @@
-.class public final Lcom/google/firebase/R$integer;
+.class public final Lcom/google/firebase/R$raw;
 .super Ljava/lang/Object;
 
 
@@ -9,14 +9,12 @@
 
 .annotation system Ldalvik/annotation/InnerClass;
     accessFlags = 0x19
-    name = "integer"
+    name = "raw"
 .end annotation
 
 
 # static fields
-.field public static final google_play_services_version:I = 0x7f090008
-
-.field public static final status_bar_notification_info_maxnum:I = 0x7f090016
+.field public static final keep:I = 0x7f0e0000
 
 
 # direct methods
